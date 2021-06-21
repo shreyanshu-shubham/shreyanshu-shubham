@@ -3,7 +3,7 @@
 ## Curently learning 
   * **C**
   * **Java**
-  * 
+  * **Bash**
 ## To reach me
   * Email - shreyanshu.dps@gmail.com
   * [Instagram](https://www.instagram.com/2_insignificant/)
