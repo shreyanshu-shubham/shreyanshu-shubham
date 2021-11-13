@@ -2,7 +2,6 @@
 ## Curently a : **student**
 ## Curently learning 
   * **C**
-  * **Java**
   * **Bash**
 ## To reach me
   * Email - shreyanshu.dps@gmail.com
