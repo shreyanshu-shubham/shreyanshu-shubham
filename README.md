@@ -3,6 +3,7 @@
 ## Curently learning 
   * **C**
   * **Bash**
+  * **Flutter**
 ## To reach me
   * Email - shreyanshu.dps@gmail.com
   * [Instagram](https://www.instagram.com/2_insignificant/)
