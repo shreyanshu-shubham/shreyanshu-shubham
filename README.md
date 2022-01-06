@@ -6,7 +6,6 @@
   * **Flutter**
 ## To reach me
   * Email - shreyanshu.dps@gmail.com
-  * [Instagram](https://www.instagram.com/2_insignificant/)
   * 
 <!--
 **arcadesArena/arcadesArena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
