@@ -1,6 +1,6 @@
 <!--       -->
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/arcadesArena/arcadesArena/main/600px-Planetary_Gear_Animation.gif" width="30" height="30">
+    <img src="/assets/600px-Planetary_Gear_Animation.gif" width="30" height="30">
     Hi , I'm Shreyanshu Shubham
 </h1>
 
