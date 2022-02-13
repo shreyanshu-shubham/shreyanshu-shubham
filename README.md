@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    A competitive coder and app developer from India
+    A competitive coder and app developer.
 </h3>
 
 <p align="left"> 
