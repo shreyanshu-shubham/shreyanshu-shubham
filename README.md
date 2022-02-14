@@ -9,12 +9,12 @@
 </h3>
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=arcades-arena&label=Profile%20views&color=0e75b6&style=flat" alt="arcadesArena" /> 
+    <img src="https://komarev.com/ghpvc/?username=arcadesArena&label=Profile%20views&color=0e75b6&style=flat" alt="arcadesArena" /> 
 </p>
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=arcades-arena" alt="arcadesArena" />
+        <img src="https://github-profile-trophy.vercel.app/?username=arcadesArena" alt="arcadesArena" />
     </a>
 </p>
 
@@ -48,5 +48,5 @@
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcades-arena&show_icons=true&locale=en&layout=compact" alt="arcadesArena" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcadesArena&show_icons=true&locale=en&layout=compact" alt="arcadesArena" />
 </p>
