@@ -1,6 +1,6 @@
 <!--       -->
 <h1 align="center">
-    <img src="/assets/600px-Planetary_Gear_Animation.gif" width="30" height="30">
+    <img src="/assets/04.gif" width="40" height="40">
     Hi , I'm Shreyanshu Shubham
 </h1>
 
