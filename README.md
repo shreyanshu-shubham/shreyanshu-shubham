@@ -1,6 +1,6 @@
 <!--       -->
 <h1 align="center">
-    <img src="/assets/03.gif" width="40" height="40">
+    <img src="/assets/01.gif" width="30" height="30">
     Hi , I'm Shreyanshu Shubham
 </h1>
 
