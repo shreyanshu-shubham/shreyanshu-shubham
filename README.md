@@ -16,8 +16,6 @@
 
 - 🌱 I’m currently learning **C, Bash, Flutter, Dart**
 
-- 📫 How to reach me **shreyanshu.dps@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/ShreyanshuShub1" target="blank">
