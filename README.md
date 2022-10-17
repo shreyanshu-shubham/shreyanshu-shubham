@@ -18,14 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/ShreyanshuShub1" target="blank">
-        <img align="center" src="/icons/twitter.svg" alt="ShreyanshuShub1" height="30" width="40" />
-    </a>
     <a href="https://linkedin.com/in/shreyanshu-shubham-091759212/" target="blank">
         <img align="center" src="/icons/linked-in-alt.svg" alt="shreyanshu-shubham-091759212" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/shreyanshu.shubham" target="blank">
-        <img align="center" src="/icons/instagram.svg" alt="shreyanshu.shubham" height="30" width="40" />
     </a>
     <a href="https://www.hackerrank.com/shreyanshu_s" target="blank">
         <img align="center" src="/icons/hackerrank.svg" alt="shreyanshu_s" height="30" width="40" />
@@ -35,9 +29,6 @@
     </a>
     <a href="https://auth.geeksforgeeks.org/user/shreyanshushubham" target="blank">
         <img align="center" src="/icons/geeks-for-geeks.svg" alt="shreyanshushubham" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/arcadesArena#1981" target="blank">
-        <img align="center" src="/icons/discord.svg" alt="arcadesArena#1981" height="30" width="40" />
     </a>
 </p>
 
