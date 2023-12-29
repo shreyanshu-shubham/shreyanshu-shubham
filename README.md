@@ -14,7 +14,7 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **C, Bash, Flutter, Dart**
+- 🌱 I’m currently learning **C, JAVA, Python, Spring Boot, Bash, Flutter, Dart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
