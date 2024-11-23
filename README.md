@@ -10,7 +10,7 @@
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=arcadesArena&column=8" alt="shreyanshu" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ShreyanshuShubham&column=8" alt="shreyanshu" />
     </a>
 </p>
 
@@ -33,5 +33,5 @@
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcadesArena&show_icons=true&locale=en&layout=compact" alt="shreyanshu" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshuShubham&show_icons=true&locale=en&layout=compact" alt="shreyanshu" />
 </p>
