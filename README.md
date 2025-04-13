@@ -10,7 +10,7 @@
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ShreyanshuShubham&column=8" alt="shreyanshu" />
+        <img src="https://github-profile-trophy.vercel.app/?username=shreyanshu-shubham&column=8" alt="shreyanshu" />
     </a>
 </p>
 
@@ -27,11 +27,11 @@
     <a href="https://www.leetcode.com/sShubham" target="blank">
         <img align="center" src="/icons/leet-code.svg" alt="sShubham" height="30" width="40" />
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/shreyanshushubham" target="blank">
-        <img align="center" src="/icons/geeks-for-geeks.svg" alt="shreyanshushubham" height="30" width="40" />
+    <a href="https://auth.geeksforgeeks.org/user/shreyanshu-shubham" target="blank">
+        <img align="center" src="/icons/geeks-for-geeks.svg" alt="shreyanshu-shubham" height="30" width="40" />
     </a>
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshuShubham&show_icons=true&locale=en&layout=compact" alt="shreyanshu" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshu-shubham&show_icons=true&locale=en&layout=compact" alt="shreyanshu" />
 </p>
