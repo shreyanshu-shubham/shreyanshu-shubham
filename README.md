@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyanshu Shubham</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shreyanshu Shubham</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyanshu-shubham&rank=-?" alt="shreyanshu-shubham" /></a> </p>
@@ -36,4 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyanshu-shubham&show_icons=true&locale=en&layout=compact" alt="shreyanshu-shubham" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyanshu-shubham&show_icons=true&locale=en" alt="shreyanshu-shubham" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyanshu-shubham&show_icons=true&locale=en" alt="shreyanshu-shubham" /></p> -->
